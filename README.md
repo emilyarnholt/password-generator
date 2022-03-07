@@ -1,1 +1,2 @@
 # password-generator
+This application is used to create a secure password including: numbers, letters, and special characters. Once you select the generate button a prompt appears asking for the desired amount of characters in your new secure password. You can select more than 8 and less than 128 characters. You can select generate password as many times as needed till you recieve a password you like. 
